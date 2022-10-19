@@ -1,0 +1,30 @@
+body {
+    height: 100%;
+    background-image: linear-gradient(to bottom right, rgb(0, 155, 221), rgb(240, 255, 248));
+    background-repeat: no-repeat;
+}
+.main{
+    width: 390px;
+    height: 625px;
+    margin: 10% auto;
+    border-radius: 4px;
+    padding: 2.5rem;
+    background-color: white;
+    text-align: center;
+}
+.checkbox mb-3{
+    text-align:left;
+    margin:auto;
+}
+.profile-img {
+    width: 90px;
+    margin: 0 auto;
+}
+.fa {
+    padding: 5px;
+    font-size: 30px;
+    width: 50px;
+    text-align: center;
+    text-decoration: none;
+    border-radius: 50%;
+  }
